@@ -1,0 +1,35 @@
+{
+    "applyToListedOnly": false,
+    "changeBrowserTheme": false,
+    "enableForPDF": true,
+    "enableForProtectedPages": false,
+    "enabled": true,
+    "location": {
+        "latitude": null,
+        "longitude": null
+    },
+    "notifyOfNews": false,
+    "presets": [],
+    "previewNewDesign": true,
+    "siteList": [],
+    "siteListEnabled": [],
+    "syncSettings": true,
+    "syncSitesFixes": false,
+    "theme": {
+        "mode": 1,
+        "brightness": 95,
+        "contrast": 91,
+        "grayscale": 0,
+        "sepia": 15,
+        "useFont": true,
+        "fontFamily": "Share Tech Mono",
+        "textStroke": 0,
+        "engine": "dynamicTheme",
+        "stylesheet": "",
+        "darkSchemeBackgroundColor": "#0A0A19",
+        "darkSchemeTextColor": "#F57513",
+        "scrollbarColor": "#D6701D",
+        "selectionColor": "#FFAE42",
+        "styleSystemControls": true
+    }
+}
