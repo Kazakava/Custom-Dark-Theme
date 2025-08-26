@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Dusk of Decaying Leaves",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "frame": [17, 22, 41],
+      "frame_inactive": [20, 26, 48],
+      "toolbar": [15, 16, 29],
+      "tab_text": [245, 117, 19],
+      "tab_background_text": [163, 125, 95],
+      "bookmark_text": [198, 121, 63],
+      "ntp_background": [15, 16, 29],
+      "ntp_text": [245, 117, 19],
+      "button_background": [198, 121, 63]
+    },
+    "tints": {
+      "buttons": [198, 121, 63]
+    }
+  }
+}
