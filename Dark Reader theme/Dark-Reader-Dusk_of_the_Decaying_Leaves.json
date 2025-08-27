@@ -17,19 +17,19 @@
     "syncSitesFixes": false,
     "theme": {
         "mode": 1,
-        "brightness": 95,
-        "contrast": 95,
+        "brightness": 100,
+        "contrast": 100,
         "grayscale": 0,
-        "sepia": 15,
+        "sepia": 0,
         "useFont": true,
         "fontFamily": "Share Tech Mono",
         "textStroke": 0,
         "engine": "dynamicTheme",
         "stylesheet": "",
-        "darkSchemeBackgroundColor": "#0A0A19",
+        "darkSchemeBackgroundColor": "#0A1320",
         "darkSchemeTextColor": "#F57513",
-        "scrollbarColor": "#D6701D",
-        "selectionColor": "#FFAE42",
+        "scrollbarColor": "#F57513",
+        "selectionColor": "#F57513",
         "styleSystemControls": true
     }
 }
