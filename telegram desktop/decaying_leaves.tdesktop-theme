@@ -1,9 +1,9 @@
 bg0_hard: #09111D;
-bg0:      #0B1726;
-bg0_soft: #0A1422;
-bg1:      #0B1726;
-bg2:      #0B1726;
-bg3:      #38655F;
+bg0:      #0D192A;
+bg0_soft: #0B1726;
+bg1:      #0D192A;
+bg2:      #09111D;
+bg3:      #4B5B8C;
 bg4:      #F47417;
 
 overlay: #09111D80;
@@ -87,8 +87,8 @@ scrollBgOver: none; // default scroll bar background with mouse over the scroll 
 mainMenuBg: windowBg; // main menu background
 mainMenuCoverBg: bg2; // main menu top cover background
 mainMenuCoverFg: windowFg; // main menu top cover text
-mainMenuCloudFg: fg0; // 
-mainMenuCloudBg: fg4; // 
+mainMenuCloudFg: fg0; //
+mainMenuCloudBg: fg4; //
 
 menuBg: windowBg; // default popup menu background
 menuBgOver: windowBgOver; // default popup menu item background with mouse over
@@ -114,7 +114,7 @@ filterInputInactiveBg: bg1; // default rounded input field background (like in c
 filterInputActiveBg: filterInputInactiveBg; // default rounded input field active background (like in chats list search field when field is focused)
 
 activeButtonBg: neutral_orange; // default active button background
-activeButtonBgOver: bright_orange; // default active button background with mouse over
+activeButtonBgOver: faded_orange; // default active button background with mouse over
 activeButtonBgRipple: windowBgRipple; // default active button ripple effect
 activeButtonFg: fg; // default active button text
 activeButtonFgOver: activeButtonFg; // default active button text with mouse over
@@ -238,12 +238,12 @@ msgFile4BgOver: msgFile4Bg; // yellow shared files without image download circle
 
 msgDateImgBgOver: msgDateImgBg; // media message download icon circle background with mouse over (like file with thumbnail download icon)
 
-msgInBgSelected: bg4; // inbox selected message background (and background of selected text in those messages)
+msgInBgSelected: faded_orange; // inbox selected message background (and background of selected text in those messages)
 msgInDateFgSelected: windowFg; // inbox selected message time text
 msgInShadowSelected: windowShadowFg; // inbox selected message shadow (below the bubble)
 msgInMonoFgSelected: msgInMonoFg; // inbox message monospace text in a selected text or message
 
-msgOutBgSelected: bg4; // outbox selected message background (and background of selected text in those messages)
+msgOutBgSelected: faded_orange; // outbox selected message background (and background of selected text in those messages)
 msgOutDateFgSelected: windowFg; // outbox selected message time text
 msgOutShadowSelected: windowShadowFg; // outbox selected message shadow (below the bubble)
 msgOutMonoFgSelected: msgOutMonoFg; // outbox message monospace text in a selected text or message
@@ -252,7 +252,7 @@ msgSelectOverlay: overlay; // overlay which is filling the media parts of select
 msgStickerOverlay: overlay; // overlay which is filling the selected sticker message
 msgInReplyBarSelColor: windowFg; // inbox selected message reply outline
 msgOutReplyBarSelColor: windowFg; // outbox selected message reply outline
-msgServiceBgSelected: bg4; // service message selected text background (like in a service message about group title being changed) (adjusted)
+msgServiceBgSelected: faded_orange; // service message selected text background (like in a service message about group title being changed) (adjusted)
 msgInServiceFgSelected: windowFg; // inbox selected message information text (like information about a forwarded message original sender)
 msgOutServiceFgSelected: windowFg; // outbox message information text (like information about a forwarded message original sender)
 
