@@ -22,7 +22,7 @@
         "grayscale": 0,
         "sepia": 0,
         "useFont": true,
-        "fontFamily": "Share Tech Mono",
+        "fontFamily": "Monospace",
         "textStroke": 0,
         "engine": "dynamicTheme",
         "stylesheet": "",
